@@ -1,0 +1,6 @@
+
+admin login 
+user id --admin
+pass---admin
+
+python manage.py runserver
